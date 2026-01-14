@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Generated SDK (temp directory during regeneration)
+generated/
+
+# Downloaded swagger spec (temp file)
+swagger.json
+
+.env
