@@ -7,13 +7,13 @@ SleepHQ is an online platform for CPAP users to view, share and analyse their sl
 ## Installation
 
 ```bash
-pip install sleephq-client
+pip install git+https://github.com/frohoff/python-sleephq-client.git
 ```
 
 Or with [uv](https://docs.astral.sh/uv/):
 
 ```bash
-uv add sleephq-client
+uv add git+https://github.com/frohoff/python-sleephq-client.git
 ```
 
 ## Quick Start
@@ -225,8 +225,8 @@ See the [SleepHQ API documentation](https://sleephq.com/api-docs/index.html) for
 ### Setup
 
 ```bash
-git clone <repo>
-cd python-sleephq
+git clone https://github.com/frohoff/python-sleephq-client.git
+cd python-sleephq-client
 uv sync
 ```
 
