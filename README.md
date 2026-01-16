@@ -7,9 +7,9 @@ SleepHQ is an online platform for CPAP users to view, share, and analyze therapy
 ### Installation
 
 ```bash
-pip install git+https://github.com/frohoff/python-sleephq-client.git
+pip install git+https://github.com/frohoff/sleephq-client.git
 # or
-uv add git+https://github.com/frohoff/python-sleephq-client.git
+uv add git+https://github.com/frohoff/sleephq-client.git
 ```
 
 ### CLI

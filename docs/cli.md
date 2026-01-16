@@ -7,9 +7,9 @@ The `sleephq` command-line interface wraps the Python SDK with Typer-based ergon
 Installing the package exposes the CLI:
 
 ```bash
-pip install git+https://github.com/frohoff/python-sleephq-client.git
+pip install git+https://github.com/frohoff/sleephq-client.git
 # or
-uv add git+https://github.com/frohoff/python-sleephq-client.git
+uv add git+https://github.com/frohoff/sleephq-client.git
 ```
 
 ## Usage

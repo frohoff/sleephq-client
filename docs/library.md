@@ -3,13 +3,13 @@
 ## Installation
 
 ```bash
-pip install git+https://github.com/frohoff/python-sleephq-client.git
+pip install git+https://github.com/frohoff/sleephq-client.git
 ```
 
 Or with [uv](https://docs.astral.sh/uv/):
 
 ```bash
-uv add git+https://github.com/frohoff/python-sleephq-client.git
+uv add git+https://github.com/frohoff/sleephq-client.git
 ```
 
 ## Quick Start
